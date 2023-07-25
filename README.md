@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikumar-02&label=Profile%20views&color=0e75b6&style=flat" alt="sasikumar-02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasikumar-02" alt="sasikumar-02" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/https://twitter.com/sasikum18587875" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sasikum18587875?logo=twitter&style=for-the-badge" alt="https://twitter.com/sasikum18587875" /></a> </p>
 
 - 🔭 I’m currently working on [Video Streaming Application](https://github.com/Sasikumar-02/Guest-Room-Booking-Application)
