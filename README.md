@@ -113,12 +113,9 @@
 </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
 </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+<!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>  -->
 </a> 
 </p>
-
-[![Sasi's GitHub activity graph](https://sasikumar-02.github.io/)](https://github.com/Sasikumar-02)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasikumar-02&show_icons=true&locale=en&layout=compact" alt="sasikumar-02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasikumar-02&show_icons=true&locale=en" alt="sasikumar-02" /></p>
