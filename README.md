@@ -18,9 +18,8 @@
 
 - 👨‍💻 All of my projects are available at [https://sasikumar-02.github.io/](https://sasikumar-02.github.io/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zwzpM1G9YtiLGCpDgnX6oscFrzQwgZqD/view?usp=sharing](https://drive.google.com/file/d/1zwzpM1G9YtiLGCpDgnX6oscFrzQwgZqD/view?usp=sharing)
-
-- 📫 How to reach me **sasikumarmurugan02@gmail.com** or **sasikumarm.cs20@bitsathy.ac.in**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zwzpM1G9YtiLGCpDgnX6oscFrzQwgZqD/view?usp=sharing]([https://drive.google.com/file/d/1-9QkGp7owjapRMlUk3X7SPYVS6JO-gD8/view?usp=sharing]
+- 📫 How to reach me **sasikumarmurugan02@gmail.com**
 
 - ⚡ Fun fact **I embark on journeys across the globe 🧗‍♀️🚴**
 
