@@ -10,15 +10,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikumar-02&label=Profile%20views&color=0e75b6&style=flat" alt="sasikumar-02" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Video Streaming Application**
+- 🔭 I’m currently working on **ECMS (Enterprise Content Management System) -Client Project**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next JS and Java Springboot**
 
-- 💬 Ask me about **MERN, C++, Video Editing**
+- 💬 Ask me about **Mern Stack, React Js, Tailwind CSS, Javascript, C++, Bootsrap, SQL, Problem Solving**
 
 - 👨‍💻 All of my projects are available at [https://sasikumar-02.github.io/](https://sasikumar-02.github.io/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zwzpM1G9YtiLGCpDgnX6oscFrzQwgZqD/view?usp=sharing]([https://drive.google.com/file/d/1-9QkGp7owjapRMlUk3X7SPYVS6JO-gD8/view?usp=sharing]
+- 📄 Know about my experiences [https://sasikumar-02.github.io/](https://sasikumar-02.github.io/) 
 - 📫 How to reach me **sasikumarmurugan02@gmail.com**
 
 - ⚡ Fun fact **I embark on journeys across the globe 🧗‍♀️🚴**
